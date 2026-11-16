@@ -48,10 +48,13 @@ Mission    : Turning ideas into functional software
 ## `04 // CONTRIBUTION_ACTIVITY`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
+  <img
+    src="https://raw.githubusercontent.com/AnzaMahwasaneSt10524165/Anza-Mahwasane-/output/github-contribution-grid-snake-dark.svg"
+    alt="VENOM contribution snake"
+    width="100%"
+  />
 </div>
+
 
 ## `05 // SYSTEM_STATUS`
 
