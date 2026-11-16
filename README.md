@@ -16,7 +16,7 @@
 ## `01 // ABOUT_ME`
 
 ```bash
-┌──(VENOM㉿localhost)-[~]
+┌──(ANZA MAHWASANE㉿localhost)-[~]
 └─$ whoami
 
 Name       : Anza Mahwasane
